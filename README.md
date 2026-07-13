@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
-<a align="right" href="mdavidjeremiah.dev" >mdavidjeremiah.dev</a>
+<a align="right" href="https://www.mdavidjeremiah.dev" >mdavidjeremiah.dev</a>
 
 ###
 
