@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning NextJS, Machine & Deep Learning and System Design<br>🎯 Goals: My Own Start-up by 2030<br>🎲 Fun fact: Love Chess, Trading, YouTube Automation, Traveling and Music</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning NextJS, Node JS & FastAPI<br>🎯 Goals: My Own Start-up by 2030<br>🎲 Fun fact: Love Chess, Trading, YouTube Automation, Traveling and Music</p>
 
 ###
 
