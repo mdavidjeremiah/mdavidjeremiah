@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Muwanguzi David Jeremiah and I'm a Self-Taught Full Stack Developer from Uganda</p>
+<p align="left">My name is Muwanguzi David Jeremiah and I'm a Self-Taught Full Stack Developer from Uganda, Founder & CEO of LitmusTech Solutions.</p>
 
 ###
 
